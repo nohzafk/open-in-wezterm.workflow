@@ -61,7 +61,7 @@
                     <key>COMMAND_STRING</key>
                     <string>for f in "$@"
 do
-    /opt/homebrew/bin/wezterm start --cwd "$f"
+    /Applications/WezTerm.app/Contents/MacOS/wezterm start --cwd "$f"
 done</string>
                     <key>CheckedForUserDefaultShell</key>
                     <true/>
